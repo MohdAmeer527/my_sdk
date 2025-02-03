@@ -1,7 +1,8 @@
 name: my_sdk
 description: A simple Dart SDK for string and math utilities.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+homepage: https://github.com/MohdAmeer527/my_sdk
+repository: https://github.com/MohdAmeer527/my_sdk.git
 
 environment:
   sdk: ^3.5.3
